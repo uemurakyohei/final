@@ -1,5 +1,5 @@
 body{
-    background:#95A5A6
+    background:#4C4C4C;
 } 
 
 
@@ -38,4 +38,23 @@ body{
 }
 h1{
     font-size: bold;
+    text-align: center;
+    background-color: white;
+    width: 30%;
+    margin: auto;
+    color: #1F4788;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+#big{
+    z-index: -53;
+    margin-top: px;
+}
+#saito{
+    z-index: 3;
+    margin-top: -450px;
+}
+#tama{
+    margin-top: 432px;
+
 }

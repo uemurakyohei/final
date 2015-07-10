@@ -18,7 +18,7 @@ body{
     margin-top: -311px;
     float: left;}
 .daimei{
-    text-align: center;
+    text-align: center;  
 }
 
 
@@ -39,6 +39,7 @@ body{
     bottom: auto;
     font-size: 100px;
     font-family: cursive;
+    background-color: black;
 }
 
 .sub1 img{
@@ -46,8 +47,6 @@ body{
     width: 450px;
     margin-top: -6px;
     margin-bottom: 0px;
-    /*position: relative;
-    top: 300px;*/
     
 
 }
@@ -90,8 +89,11 @@ body{
 }
 #key-block li{
     height: 100%;
-    list-style-type: none;
+    list-style-image: url(list2.png);
 }
+
+
+
 #key-block a.logo:hover{
     background: #fff;
     color: white;
@@ -105,4 +107,6 @@ body{
     padding: 3px;
     font-size: 20px;
     border-width: 3px;
+    width: 95%;
+    margin: auto;
 }

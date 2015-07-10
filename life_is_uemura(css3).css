@@ -14,6 +14,7 @@ body{
 .main_area {
   width: 900px;
   margin-left: 300px;
+  
 }
 .figure{
 	position: relative;
@@ -63,6 +64,9 @@ li{
     width: 900px;
     margin-left: 300px;
 }
+#key-block{
+    margin-top: -21px;
+}
 #key-block img{
     width: 250px;    
 }
@@ -77,6 +81,7 @@ li{
 #key-block a:hover{
     background: #BFBFBF;
     color: white;
+    margin-top: px;
 }
 #key-block a.logo:hover{
     background: #fff;
@@ -86,4 +91,5 @@ li{
 #key-block li{
     height: 100%;
     list-style-type: none;
+    padding: 0px;
 }
